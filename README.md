@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------
 
 ### Introduction
-This repo contains the codebase of the project done at Deno-Shaping the Future Hackathon.
+This repo contains the codebase of the project done at Denso-Shaping the Future Hackathon.
 
 --------------------------------------------------------------------------------
 
